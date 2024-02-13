@@ -1,0 +1,28 @@
+* {
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+html {
+    background-color: wheat;
+}
+
+h1,
+h3 {
+    background-color: coral;
+    color: bisque;
+    text-align: center;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+p,
+li {
+    color: rgb(81, 176, 189);
+    font-size: 18px;
+}
